@@ -4,5 +4,5 @@ while i<5:
     i+=1
 
 
-list=[1,23,4,56,6]
+list=[1,2,3,4]
 print(list)
